@@ -1,7 +1,5 @@
- .outdoor::after{
-            
-
-    content: "Internet Online..";
+	.outdoor{
+			  content: "Internet Online..";
 			font-family: 'Courier New', Courier, monospace;
 			color: blue !important;
-        }
+		}
